@@ -1,0 +1,4 @@
+[submodule "docs/players_manual"]
+	path = docs/players_manual
+	url = https://github.com/ctm/mb2-doc
+	branch = gh-pages
