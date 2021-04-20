@@ -5,4 +5,4 @@
 [submodule "docs/the_business"]
 	path = docs/the_business
 	url = https://github.com/ctm/the-business
-	branch = gh-pages
+	branch = heads/gh-pages
