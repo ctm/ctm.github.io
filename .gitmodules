@@ -2,10 +2,9 @@
 	path = docs/players_manual
 	url = https://github.com/ctm/mb2-doc
 	branch = gh-pages
-[submodule "docs/the_business"]
-	path = docs/the_business
-	url = https://github.com/ctm/the-business
-	branch = heads/gh-pages
 [submodule "docs/the_person"]
 	path = docs/the_person
 	url = https://github.com/ctm/the-person
+[submodule "docs/craft-poker-co"]
+	path = docs/craft-poker-co
+	url = https://github.com/ctm/craft-poker-co
