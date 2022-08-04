@@ -5,6 +5,3 @@
 [submodule "docs/the_person"]
 	path = docs/the_person
 	url = https://github.com/ctm/the-person
-[submodule "docs/craft-poker-co"]
-	path = docs/craft-poker-co
-	url = https://github.com/ctm/craft-poker-co
